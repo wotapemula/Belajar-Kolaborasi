@@ -2,4 +2,5 @@
 
 Belajar kolaborasi with @wotapemula  
 This is an update in the forked repo  
-update 1
+update 1  
+update 2
